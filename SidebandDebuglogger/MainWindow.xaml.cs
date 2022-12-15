@@ -23,7 +23,7 @@ namespace SidebandDebuglogger
     {
         #region Public Memebers
         /// <summary>
-        /// This becomes true when the appication close button is clicked
+        /// This becomes true when the appication close button is clicked.
         /// </summary>
         #endregion
         public MainWindow()
